@@ -1,10 +1,6 @@
 # Lei's GitHub QA Portfolio
 
 ### About me :wave:
-With a career goal of leveraging my diverse skill set in the role of QA or other relevant IT positions, I bring a strong blend of planning, communication, and critical thinking abilities, along with a solid foundation in software development. Holding a Master of IT specializing in Data Science, I have a firm grasp of software development methodologies and hands-on experience with testing tools including JUnit, Jenkins, and Postman.
-
-(I’ve been strengthening my testing skill set by self-learning test automation frameworks (Selenium), defect management tools (JIRA), and advanced Postman functionalities for API testing in my free time.)
-
 Welcome to my GitHub repository, designed to demonstrate my skills and experience as a Quality Assurance (QA) Engineer. This repository contains a comprehensive collection of my work, showcasing my approach to QA, version control, CI/CD, automation, and more.
 
 [My Linkedin profile](https://www.linkedin.com/in/bianlei/)
