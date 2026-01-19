@@ -2,12 +2,9 @@
 
 Welcome to my GitHub repository, created to showcase my skills and experience as an aspiring QA Engineer. This repo features a comprehensive collection of my work, highlighting my approach to QA, version control, CI/CD, automation, and beyond.
 
-### My experience :office:
-As a Java Backend Software Developer at Chinasoft International Ltd, I built solid software development foundations. I designed Restful APIs with Spring Boot, created unit tests using JUnit and automated deployments through Jenkins in CI/CD pipelines. This hands-on experience gave me deep insights into software quality standards and sparked my passion for QA. I have since actively improved my skills in my free time. I mastered Selenium for test automation, JIRA for defect management and advanced Postman features for API testing. With my IT support and service desk experience in solving complex system problems, this combination of development skills and self-led QA learning makes me eager to succeed in a QA role.
-
 ## Table of Contents
 
-1. [Resume](#resume)
+1. [My experience](#my-experience) 
 2. [Bug Reporting](#bug-reporting)
 3. [AI-QA](#AI-QA)
 4. [CI/CD Implementation](#cicd-implementation)
@@ -15,7 +12,10 @@ As a Java Backend Software Developer at Chinasoft International Ltd, I built sol
 6. [Docker](#docker)
 7. [Version Control](#version-control)
 
-### Tech skills :computer:
+## My experience :office:
+As a Java Backend Software Developer at Chinasoft International Ltd, I built solid software development foundations. I designed Restful APIs with Spring Boot, created unit tests using JUnit and automated deployments through Jenkins in CI/CD pipelines. This hands-on experience gave me deep insights into software quality standards and sparked my passion for QA. I have since actively improved my skills in my free time. I mastered Selenium for test automation, JIRA for defect management and advanced Postman features for API testing. With my IT support and service desk experience in solving complex system problems, this combination of development skills and self-led QA learning makes me eager to succeed in a QA role.
+
+## Tech skills :computer:
 
 * Rest API testing (proficient in using Postman for API testing and validation, with hands-on experience in building and maintaining Restful API architectures during backend development at Chinasoft International Ltd)
 * Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile) – applied Agile methodologies in daily work at Chinasoft, including participating in CI/CD pipelines and collaborative development workflows
@@ -43,10 +43,6 @@ As a Java Backend Software Developer at Chinasoft International Ltd, I built sol
 |    ALTER TABLE (ADD)          |         <=           |    IS NULL        |                                  |                       |         |
 |  INSERT INTO                  |         !<           |    IS NOT NULL    |                                  |                       |         |
 |                               |         !>           |                   |                                  |                       |         |
-
-## Resume
-
-Please refer to my job application.
 
 ## Bug Reporting 
 
