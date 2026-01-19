@@ -70,53 +70,71 @@ Being a junior software tester at Perfect Gym is my first professional position 
 * patience
 * empathy
 
-### Courses :notebook:
-* [QA Training](https://szkoleniedlaqa.pl/szkolenie/) + [PORTFOLIO](https://github.com/PaulaRybicka0114/QA_Course)
-* DareIT Challenge - automated tests + Python [PORTFOLIO](https://github.com/PaulaRybicka0114/automation_challenge_portfolio)
-* DareIT Challenge - become a manual tester [PORTFOLIO](https://github.com/PaulaRybicka0114/challenge_portfolio_paulinarybicka)
-* [Operating DevTools](https://szkoleniedlaqa.pl/konsola/)
-* CherryIT COLT 1/2023 - Postman & Rest API - [PORTFOLIO](https://github.com/PaulaRybicka0114/COLT-1-2023)
-* CherryIT COLT 2/2023 - Git - [PORTFOLIO](https://github.com/PaulaRybicka0114/COLT_2-2023.git)
-* [Fundamentals of manual software testing](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
-* [SQL training in 120 minutes](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
-* [Postman - REST API testing](https://www.udemy.com/course/kurs-postman/#instructor-1)
 
-### Certificates :trophy:
-* [DareIT Challenge - become a manual tester](https://drive.google.com/file/d/1YpGj2B1LOWcX6n43XOarXhscEBcZT1O6/view?usp=sharing)
-* [Operating DevTools](https://drive.google.com/file/d/1ivc7_YJ9rcasOwIgwA87S9SmqcefSwqr/view?usp=sharing)
-* [Fundamentals of manual software testing](https://www.udemy.com/certificate/UC-cb1f1ecf-5dbb-4879-896d-469cdaa18751/)
-* [Postman - REST API testing](https://www.udemy.com/certificate/UC-34482c92-39fa-4fed-ae79-fa441c429cc6/)
-* [INCO Green Digital Skills](https://drive.google.com/file/d/1s_PxjBdtJznErCLK6pftFKwhvPNynW1a/view?usp=drive_link)
+## Table of Contents
 
-### Samples :microscope:
-**1. Allegro Sandbox**
-* [Test plan](https://drive.google.com/file/d/1cRJdU6T6CtdcUbtz7Vtp08lzP7Up145y/view?usp=drive_link)
-* [Test cases](https://docs.google.com/document/d/1obBYg-6bmxsXW05WEku2Z7R_r_DquGhnboqCt_j0A9E/edit?usp=drive_link)
-* [Bug report](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?usp=drive_link)
-* [Test report](https://drive.google.com/file/d/10nz_hn8osQ20P3n1tEWSlKMcgNqtJ_yB/view?usp=drive_link)
+1. [Resume](#resume)
+2. [Bug Reporting](#bug-reporting)
+3. [AI-QA](#AI-QA)
+4. [CI/CD Implementation](#cicd-implementation)
+5. [Automation Coding Project](#automation-coding-project)
+6. [Docker](#docker)
+7. [Version Control](#version-control)
 
-**2. Generic Shop by TestArmy**
-* [Test plan](https://drive.google.com/file/d/14YT3LU42hfid7Ydq7eo5Dv2m8CQwgZNH/view?usp=drive_link)
-* [Scenario and test cases](https://docs.google.com/spreadsheets/d/1lCWVFviaHi4Q8tluyCWeMiH4a-cpWKqzjk7G3zJPfqA/edit?usp=sharing)
-* [Bug report](https://docs.google.com/spreadsheets/d/1Ztz3sgFs_pcBi3PXwAIu-MNxDDbJeHlPIpnPANpMmIA/edit?usp=sharing)
-* [Test report](https://drive.google.com/file/d/1pDDZ93CVt_WPvAae1AgnnMhsZjTb95iB/view?usp=drive_link)
+## Resume
 
-### Books :books:
-* Rafał Podraza, “Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach”
-* Piotr Wicherski, [Testowanie oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+You can find my resume in this repository, providing a detailed overview of my work history, skills, and experience.
 
-### Blogs :newspaper:
-* [Testerzy](https://testerzy.pl/)
-* [Testuj](https://testuj.pl/blog/)
-* [Wyszkolę Was](https://www.wyszkolewas.com.pl/blog/)
-* [Testowanie oprogramowania](https://testowanie-oprogramowania.pl/blog/)
+[View My Resume](./resume.md)  <!-- Or link to a PDF: ./Resume.pdf -->
 
-### Podcasts :microphone:
-* [Pierwsze kroki w IT](https://open.spotify.com/show/5G4Ykc9IwoCj4uirzGmxUh)
+## Bug Reporting 
 
-### IT groups I follow on Facebook :link:
-* [DareIT Community](https://www.facebook.com/groups/dareit.io/)
-* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
-* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
-* [Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno/)
-* [Programuj, Dziewczyno!](https://www.facebook.com/groups/programujdziewczyno/)
+In this section, I demonstrate my approach to bug reporting using GitHub’s issue tracking feature. You will find a detailed bug report template as well as examples of filled-out reports.
+
+- [GitHub Issues Example](https://github.com/bennhub/GitHub-QA-Portfolio/issues/1).
+- [Sample Bug Report](./Bug-Reporting/Sample-Bug-Report.md)
+- [Bug Report Template](./Bug-Reporting/Template.md)
+  
+
+## Version Control
+
+This section showcases my use of GitHub for version control, including the creation and management of branches, pull requests, and merges. You can explore the following:
+
+- Branches and pull requests demonstrating a typical GitHub workflow.
+- Documentation on how I approach version control.
+
+[View Version Control Details](./Version-Control/VC-Documentation.md)
+
+## CI/CD Implementation
+
+Here, I detail how I set up continuous integration and continuous deployment (CI/CD) pipelines using GitHub Actions. This section includes:
+
+- [GitHub Actions workflow](https://github.com/bennhub/GitHub-QA-Portfolio/actions) 
+- [Documentation on my CI/CD setup](./CI-CD/CI-CD-Documentation.md)
+
+## Automation Coding Project
+
+This is a practical project where I apply automation to solve real-world problems. You can review the code, run the tests, and see the results.
+
+ - [Automation Project](https://github.com/bennhub/GitHub-QA-Portfolio/tree/main/Automation-Project) 
+ - [Automation Project README](./Automation-Project/Automation-Demo.md)
+
+## Docker
+
+This is a practical project where I utilize Docker to run Playwright scripts in a containerized environment. Docker ensures that the scripts run consistently across different environments, which is especially useful for automated browser testing.
+
+ - [Docker Project](https://github.com/bennhub/GitHub-QA-Portfolio/tree/main/Docker) 
+ - [Docker README](./Docker/Playwright-Docker-Demo.md) 
+
+## AI-QA 
+**in progress..**
+Check out my latest project using Google Gemini AI to assist in creating test cases. This showcases how I integrate advanced AI tools into the QA process.
+
+ - [AI-QA Project](https://github.com/bennhub/GitHub-QA-Portfolio/tree/main/AI-QA%20Projects)
+ - [AI-QA README](https://github.com/bennhub/GitHub-QA-Portfolio/blob/main/AI-QA%20Projects/README.md) 
+
+
+---
+
+Feel free to explore the repository and review the various sections to get a comprehensive view of my QA engineering skills and practices. If you have any questions or need further information, don’t hesitate to reach out!
+
