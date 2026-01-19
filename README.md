@@ -4,13 +4,13 @@ Welcome to my GitHub repository, created to showcase my skills and experience as
 
 ## Table of Contents
 
-1. [My experience](#my-experience-office) 
-2. [Bug Reporting](#bug-reporting)
-3. [Version Control](#version-control)
-4. [CI/CD Implementation](#cicd-implementation)
-5. [Automation Coding Project](#automation-coding-project)
-6. [Docker](#docker)
-7. [AI-QA](#AI-QA)
+1. [My experience](#my-experience-) 
+2. [Bug Reporting](#bug-reporting-)
+3. [Version Control](#version-control-)
+4. [CI/CD Implementation](#cicd-implementation-)
+5. [Automation Coding Project](#automation-coding-project-)
+6. [Docker](#docker-)
+7. [AI-QA](#AI-QA-)
 
 ## My experience 🌟
 As a Java Backend Software Developer at Chinasoft International Ltd, I built solid software development foundations. I designed Restful APIs with Spring Boot, created unit tests using JUnit and automated deployments through Jenkins in CI/CD pipelines. This hands-on experience gave me deep insights into software quality standards and sparked my passion for QA. I have since actively improved my skills in my free time. I mastered Selenium for test automation, JIRA for defect management and advanced Postman features for API testing. With my IT support and service desk experience in solving complex system problems, this combination of development skills and self-led QA learning makes me eager to succeed in a QA role.
