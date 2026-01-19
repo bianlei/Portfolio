@@ -6,19 +6,6 @@ Welcome to my GitHub repository, created to showcase my skills and experience as
 As a Java Backend Software Developer at Chinasoft International Ltd, I built solid software development foundations. I designed Restful APIs with Spring Boot, created unit tests using JUnit and automated deployments through Jenkins in CI/CD pipelines. This hands-on experience gave me deep insights into software quality standards and sparked my passion for QA. I have since actively improved my skills in my free time. I mastered Selenium for test automation, JIRA for defect management and advanced Postman features for API testing. With my IT support and service desk experience in solving complex system problems, this combination of development skills and self-led QA learning makes me eager to succeed in a QA role.
 
 ### Tech skills :computer:
-* [SQL](https://support.microsoft.com/pl-pl/office/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
-
-| syntax and order of execution | comparison operators | logical operators | scalar functions                 | aggregation functions | others
-|:-----------------------------:|:--------------------:|:-----------------:|:--------------------------------:|:---------------------:|:-------:|
-| SELECT (*, LIKE, TOP)         |          =           | AND               | GETDATE                          | COUNT ()              | JOIN    |
-| FROM                          |         !=           |   BETWEEN         | UPPER                            | SUM ()                | AS      |
-| WHERE                         |         <>           |    IN             | LOWER                            | MIN ()                |  UNION  |
-| GROUP BY                      |          >           |    LIKE           | DATEDIFF (HOUR, MONTH, YEAR etc.)|                       |         |
-| ORDER BY (ASC, DESC)          |          <           |    NOT            |                                  |                       |         |
-|  UPDATE (SET)                 |         >=           |    OR             |                                  |                       |         |
-|    ALTER TABLE (ADD)          |         <=           |    IS NULL        |                                  |                       |         |
-|  INSERT INTO                  |         !<           |    IS NOT NULL    |                                  |                       |         |
-|                               |         !>           |                   |                                  |                       |         |
 
 * Rest API testing (proficient in using Postman for API testing and validation, with hands-on experience in building and maintaining Restful API architectures during backend development at Chinasoft International Ltd)
 * Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile) – applied Agile methodologies in daily work at Chinasoft, including participating in CI/CD pipelines and collaborative development workflows
@@ -33,6 +20,18 @@ As a Java Backend Software Developer at Chinasoft International Ltd, I built sol
 * Performing smoke tests – self-learned basic smoke testing practices and applied them to verify core functionalities of developed modules during backend work
 * Testing UAT – self-learned user acceptance testing processes, and aligned test scenarios with business requirements from ERP procurement system projects at Chinasoft to support UAT activities
 * Scrum workflow – adapted to Scrum practices in Agile teams at Chinasoft, collaborating on iterative development and addressing evolving project needs
+* [SQL]
+| syntax and order of execution | comparison operators | logical operators | scalar functions                 | aggregation functions | others
+|:-----------------------------:|:--------------------:|:-----------------:|:--------------------------------:|:---------------------:|:-------:|
+| SELECT (*, LIKE, TOP)         |          =           | AND               | GETDATE                          | COUNT ()              | JOIN    |
+| FROM                          |         !=           |   BETWEEN         | UPPER                            | SUM ()                | AS      |
+| WHERE                         |         <>           |    IN             | LOWER                            | MIN ()                |  UNION  |
+| GROUP BY                      |          >           |    LIKE           | DATEDIFF (HOUR, MONTH, YEAR etc.)|                       |         |
+| ORDER BY (ASC, DESC)          |          <           |    NOT            |                                  |                       |         |
+|  UPDATE (SET)                 |         >=           |    OR             |                                  |                       |         |
+|    ALTER TABLE (ADD)          |         <=           |    IS NULL        |                                  |                       |         |
+|  INSERT INTO                  |         !<           |    IS NOT NULL    |                                  |                       |         |
+|                               |         !>           |                   |                                  |                       |         |
 
 ## Table of Contents
 
