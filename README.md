@@ -5,6 +5,16 @@ Welcome to my GitHub repository, created to showcase my skills and experience as
 ### My experience :office:
 As a Java Backend Software Developer at Chinasoft International Ltd, I built solid software development foundations. I designed Restful APIs with Spring Boot, created unit tests using JUnit and automated deployments through Jenkins in CI/CD pipelines. This hands-on experience gave me deep insights into software quality standards and sparked my passion for QA. I have since actively improved my skills in my free time. I mastered Selenium for test automation, JIRA for defect management and advanced Postman features for API testing. With my IT support and service desk experience in solving complex system problems, this combination of development skills and self-led QA learning makes me eager to succeed in a QA role.
 
+## Table of Contents
+
+1. [Resume](#resume)
+2. [Bug Reporting](#bug-reporting)
+3. [AI-QA](#AI-QA)
+4. [CI/CD Implementation](#cicd-implementation)
+5. [Automation Coding Project](#automation-coding-project)
+6. [Docker](#docker)
+7. [Version Control](#version-control)
+
 ### Tech skills :computer:
 
 * Rest API testing (proficient in using Postman for API testing and validation, with hands-on experience in building and maintaining Restful API architectures during backend development at Chinasoft International Ltd)
@@ -20,7 +30,7 @@ As a Java Backend Software Developer at Chinasoft International Ltd, I built sol
 * Performing smoke tests – self-learned basic smoke testing practices and applied them to verify core functionalities of developed modules during backend work
 * Testing UAT – self-learned user acceptance testing processes, and aligned test scenarios with business requirements from ERP procurement system projects at Chinasoft to support UAT activities
 * Scrum workflow – adapted to Scrum practices in Agile teams at Chinasoft, collaborating on iterative development and addressing evolving project needs
-* [SQL]
+* SQL
 
 | syntax and order of execution | comparison operators | logical operators | scalar functions                 | aggregation functions | others
 |:-----------------------------:|:--------------------:|:-----------------:|:--------------------------------:|:---------------------:|:-------:|
@@ -33,16 +43,6 @@ As a Java Backend Software Developer at Chinasoft International Ltd, I built sol
 |    ALTER TABLE (ADD)          |         <=           |    IS NULL        |                                  |                       |         |
 |  INSERT INTO                  |         !<           |    IS NOT NULL    |                                  |                       |         |
 |                               |         !>           |                   |                                  |                       |         |
-
-## Table of Contents
-
-1. [Resume](#resume)
-2. [Bug Reporting](#bug-reporting)
-3. [AI-QA](#AI-QA)
-4. [CI/CD Implementation](#cicd-implementation)
-5. [Automation Coding Project](#automation-coding-project)
-6. [Docker](#docker)
-7. [Version Control](#version-control)
 
 ## Resume
 
