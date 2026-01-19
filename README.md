@@ -1,12 +1,10 @@
 # Lei's GitHub QA Portfolio
 
 ### About me :wave:
-Welcome to my GitHub repository, designed to demonstrate my skills and experience as a Quality Assurance (QA) Engineer. This repository contains a comprehensive collection of my work, showcasing my approach to QA, version control, CI/CD, automation, and more.
+Welcome to my GitHub repository, created to showcase my skills and experience as an aspiring QA Engineer. This repo features a comprehensive collection of my work, highlighting my approach to QA, version control, CI/CD, automation, and beyond.
 
-[My Linkedin profile](https://www.linkedin.com/in/bianlei/)
-
-### My experience :office:
-Being a junior software tester at Perfect Gym is my first professional position strictly in QA area. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developped some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
+### My experience :office:😡
+As a Java Backend Software Developer at Chinasoft International Ltd, I built solid software development foundations. I designed Restful APIs with Spring Boot, created unit tests using JUnit and automated deployments through Jenkins in CI/CD pipelines. This hands-on experience gave me deep insights into software quality standards and sparked my passion for QA. I have since actively improved my skills in my free time. I mastered Selenium for test automation, JIRA for defect management and advanced Postman features for API testing. With my IT support and service desk experience in solving complex system problems, this combination of development skills and self-led QA learning makes me eager to succeed in a QA role.
 
 ### Tools :wrench:
 * [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - project management
