@@ -1,4 +1,4 @@
-# Lei's QA Portfolio :wave:
+# Lei's QA Portfolio 😊
 
 Welcome to my GitHub repository, created to showcase my skills and experience as an aspiring QA Engineer. This repo features a comprehensive collection of my work, highlighting my approach to QA, version control, CI/CD, automation, and beyond.
 
@@ -12,10 +12,10 @@ Welcome to my GitHub repository, created to showcase my skills and experience as
 6. [Docker](#docker)
 7. [AI-QA](#AI-QA)
 
-## My experience :office:
+## My experience 🌟
 As a Java Backend Software Developer at Chinasoft International Ltd, I built solid software development foundations. I designed Restful APIs with Spring Boot, created unit tests using JUnit and automated deployments through Jenkins in CI/CD pipelines. This hands-on experience gave me deep insights into software quality standards and sparked my passion for QA. I have since actively improved my skills in my free time. I mastered Selenium for test automation, JIRA for defect management and advanced Postman features for API testing. With my IT support and service desk experience in solving complex system problems, this combination of development skills and self-led QA learning makes me eager to succeed in a QA role.
 
-### Tech skills
+### Tech skills 🛠️
 
 * Rest API testing (proficient in using Postman for API testing and validation, with hands-on experience in building and maintaining Restful API architectures during backend development at Chinasoft International Ltd)
 * Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile) – applied Agile methodologies in daily work at Chinasoft, including participating in CI/CD pipelines and collaborative development workflows
@@ -44,7 +44,7 @@ As a Java Backend Software Developer at Chinasoft International Ltd, I built sol
 |  INSERT INTO                  |         !<           |    IS NOT NULL    |                                  |                       |         |
 |                               |         !>           |                   |                                  |                       |         |
 
-## Bug Reporting 
+## Bug Reporting 🪲
 
 In this section, I demonstrate my approach to bug reporting using GitHub’s issue tracking feature. You will find a detailed bug report template as well as examples of filled-out reports.
 
@@ -53,7 +53,7 @@ In this section, I demonstrate my approach to bug reporting using GitHub’s iss
 - [Bug Report Template](./Bug-Reporting/Template.md)
   
 
-## Version Control
+## Version Control 🔁
 
 This section showcases my use of GitHub for version control, including the creation and management of branches, pull requests, and merges. You can explore the following:
 
@@ -62,28 +62,28 @@ This section showcases my use of GitHub for version control, including the creat
 
 [View Version Control Details](./Version-Control/VC-Documentation.md)
 
-## CI/CD Implementation
+## CI/CD Implementation 📝
 
 Here, I detail how I set up continuous integration and continuous deployment (CI/CD) pipelines using GitHub Actions. This section includes:
 
 - [GitHub Actions workflow](https://github.com/bennhub/GitHub-QA-Portfolio/actions) 
 - [Documentation on my CI/CD setup](./CI-CD/CI-CD-Documentation.md)
 
-## Automation Coding Project
+## Automation Coding Project 💻
 
 This is a practical project where I apply automation to solve real-world problems. You can review the code, run the tests, and see the results.
 
  - [Automation Project](https://github.com/bennhub/GitHub-QA-Portfolio/tree/main/Automation-Project) 
  - [Automation Project README](./Automation-Project/Automation-Demo.md)
 
-## Docker
+## Docker 🐳
 
 This is a practical project where I utilize Docker to run Playwright scripts in a containerized environment. Docker ensures that the scripts run consistently across different environments, which is especially useful for automated browser testing.
 
  - [Docker Project](https://github.com/bennhub/GitHub-QA-Portfolio/tree/main/Docker) 
  - [Docker README](./Docker/Playwright-Docker-Demo.md) 
 
-## AI-QA 
+## AI-QA 🤖
 **in progress..**
 Check out my latest project using Google Gemini AI to assist in creating test cases. This showcases how I integrate advanced AI tools into the QA process.
 
