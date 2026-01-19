@@ -1,31 +1,9 @@
-# Lei's GitHub QA Portfolio
+# Lei's GitHub QA Portfolio :wave:
 
-### About me :wave:
 Welcome to my GitHub repository, created to showcase my skills and experience as an aspiring QA Engineer. This repo features a comprehensive collection of my work, highlighting my approach to QA, version control, CI/CD, automation, and beyond.
 
-### My experience :office:😡
+### My experience :office:
 As a Java Backend Software Developer at Chinasoft International Ltd, I built solid software development foundations. I designed Restful APIs with Spring Boot, created unit tests using JUnit and automated deployments through Jenkins in CI/CD pipelines. This hands-on experience gave me deep insights into software quality standards and sparked my passion for QA. I have since actively improved my skills in my free time. I mastered Selenium for test automation, JIRA for defect management and advanced Postman features for API testing. With my IT support and service desk experience in solving complex system problems, this combination of development skills and self-led QA learning makes me eager to succeed in a QA role.
-
-### Tools :wrench:
-* [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - project management
-* [Confluence](https://www.atlassian.com/software/confluence) - storing informations and documents about project
-* [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) - bug tracking
-* [Slack](https://slack.com/) - communication within the team
-* [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
-* [Google Drive](https://www.google.com/intl/pl_pl/drive/) - storing data
-* [Git](https://git-scm.com/) - for better work in development team and controlling software versions
-* [GitHub](https://github.com/) - supporting Git and preparing my repositories
-* [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub
-* [Xampp](https://www.apachefriends.org/pl/index.html) - practicing SQL
-* [Postman](https://www.postman.com/) - API testing
-* [Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python
-* [Selenium](https://www.selenium.dev/)
-* [Robot framework](https://robotframework.org/)
-* [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML and CSS
-* [Zephyr](https://www.atlassian.com/pl/devops/testing-tutorials/jira-zephyr-scale-testing)
-* [Kibana](https://www.elastic.co/kibana)
-* [TeamCity](https://www.jetbrains.com/teamcity/)
-* [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 
 ### Tech skills :computer:
 * [SQL](https://support.microsoft.com/pl-pl/office/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
@@ -42,28 +20,19 @@ As a Java Backend Software Developer at Chinasoft International Ltd, I built sol
 |  INSERT INTO                  |         !<           |    IS NOT NULL    |                                  |                       |         |
 |                               |         !>           |                   |                                  |                       |         |
 
-* Rest API testing
-* [ISTQB Foundation Level](https://sjsi.org/ist-qb/do-pobrania/) knowledge
-* Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
-* Software testing
-* Creating test cases
-* Reporting bugs
-* Creating bug reports
-* Basic [Python](https://www.python.org/) - for test automation
+* Rest API testing (proficient in using Postman for API testing and validation, with hands-on experience in building and maintaining Restful API architectures during backend development at Chinasoft International Ltd)
+* Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile) – applied Agile methodologies in daily work at Chinasoft, including participating in CI/CD pipelines and collaborative development workflows
+* Software testing – skilled in unit testing (using JUnit) and automated testing (integrated with Jenkins) as part of the development lifecycle at Chinasoft, with self-learned expertise in test automation frameworks like Selenium
+* Creating test cases – developed targeted unit test cases for backend modules and API functionalities during ERP procurement system projects at Chinasoft International Ltd
+* Reporting bugs – experienced in identifying and documenting software defects in previous roles, using platforms similar to JIRA; supplemented by self-learning JIRA for defect management
+* Creating bug reports – understand the structure and key elements of bug reports through work experience, and have self-learned to draft clear, detailed bug reports with essential information to help development teams resolve issues efficiently
+* Basic Python - for test automation (proficient in Python, with extensive practical application during Master of Data Science studies for data analysis; paired with hands-on use of test automation tools like Selenium)
 * Basic HTML and CSS
-* Creating documentation
-* experience with testing SaaS web applications
-* performing smoke tests
-* testing UAT
-* scrum workflow
-
-### Soft skills :file_folder:
-* precision
-* communication
-* assertiveness
-* patience
-* empathy
-
+* Creating documentation – self-learned to prepare clear technical documentation, including materials for API architectures and development processes based on backend project experiences
+* Experience with testing SaaS web applications – familiar with testing logic and quality standards for web-based systems through software development and IT support roles
+* Performing smoke tests – self-learned basic smoke testing practices and applied them to verify core functionalities of developed modules during backend work
+* Testing UAT – self-learned user acceptance testing processes, and aligned test scenarios with business requirements from ERP procurement system projects at Chinasoft to support UAT activities
+* Scrum workflow – adapted to Scrum practices in Agile teams at Chinasoft, collaborating on iterative development and addressing evolving project needs
 
 ## Table of Contents
 
@@ -77,9 +46,7 @@ As a Java Backend Software Developer at Chinasoft International Ltd, I built sol
 
 ## Resume
 
-You can find my resume in this repository, providing a detailed overview of my work history, skills, and experience.
-
-[View My Resume](./resume.md)  <!-- Or link to a PDF: ./Resume.pdf -->
+Please refer to my job application.
 
 ## Bug Reporting 
 
