@@ -21,6 +21,7 @@ As a Java Backend Software Developer at Chinasoft International Ltd, I built sol
 * Testing UAT – self-learned user acceptance testing processes, and aligned test scenarios with business requirements from ERP procurement system projects at Chinasoft to support UAT activities
 * Scrum workflow – adapted to Scrum practices in Agile teams at Chinasoft, collaborating on iterative development and addressing evolving project needs
 * [SQL]
+
 | syntax and order of execution | comparison operators | logical operators | scalar functions                 | aggregation functions | others
 |:-----------------------------:|:--------------------:|:-----------------:|:--------------------------------:|:---------------------:|:-------:|
 | SELECT (*, LIKE, TOP)         |          =           | AND               | GETDATE                          | COUNT ()              | JOIN    |
