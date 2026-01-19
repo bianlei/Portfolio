@@ -4,7 +4,7 @@ Welcome to my GitHub repository, created to showcase my skills and experience as
 
 ## Table of Contents
 
-1. [My experience](#my-experience) 
+1. [My experience](#my-experience-office) 
 2. [Bug Reporting](#bug-reporting)
 3. [AI-QA](#AI-QA)
 4. [CI/CD Implementation](#cicd-implementation)
@@ -15,7 +15,7 @@ Welcome to my GitHub repository, created to showcase my skills and experience as
 ## My experience :office:
 As a Java Backend Software Developer at Chinasoft International Ltd, I built solid software development foundations. I designed Restful APIs with Spring Boot, created unit tests using JUnit and automated deployments through Jenkins in CI/CD pipelines. This hands-on experience gave me deep insights into software quality standards and sparked my passion for QA. I have since actively improved my skills in my free time. I mastered Selenium for test automation, JIRA for defect management and advanced Postman features for API testing. With my IT support and service desk experience in solving complex system problems, this combination of development skills and self-led QA learning makes me eager to succeed in a QA role.
 
-## Tech skills :computer:
+### Tech skills
 
 * Rest API testing (proficient in using Postman for API testing and validation, with hands-on experience in building and maintaining Restful API architectures during backend development at Chinasoft International Ltd)
 * Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile) – applied Agile methodologies in daily work at Chinasoft, including participating in CI/CD pipelines and collaborative development workflows
