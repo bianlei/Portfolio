@@ -54,43 +54,25 @@ In this section, I demonstrate my approach to bug reporting using GitHub’s iss
 
 ## Version Control 🔁
 
-This section showcases my use of GitHub for version control, including the creation and management of branches, pull requests, and merges. You can explore the following:
-
-- Branches and pull requests demonstrating a typical GitHub workflow.
-- Documentation on how I approach version control.
-
-[View Version Control Details](./Version-Control/VC-Documentation.md)
+Working in progress...
 
 ## CI/CD Implementation 📝
 
-Here, I detail how I set up continuous integration and continuous deployment (CI/CD) pipelines using GitHub Actions. This section includes:
-
-- [GitHub Actions workflow](https://github.com/bennhub/GitHub-QA-Portfolio/actions) 
-- [Documentation on my CI/CD setup](./CI-CD/CI-CD-Documentation.md)
+Working in progress...
 
 ## Automation Coding Project 💻
 
-This is a practical project where I apply automation to solve real-world problems. You can review the code, run the tests, and see the results.
-
- - [Automation Project](https://github.com/bennhub/GitHub-QA-Portfolio/tree/main/Automation-Project) 
- - [Automation Project README](./Automation-Project/Automation-Demo.md)
+Working in progress...
 
 ## Docker 🐳
 
-This is a practical project where I utilize Docker to run Playwright scripts in a containerized environment. Docker ensures that the scripts run consistently across different environments, which is especially useful for automated browser testing.
-
- - [Docker Project](https://github.com/bennhub/GitHub-QA-Portfolio/tree/main/Docker) 
- - [Docker README](./Docker/Playwright-Docker-Demo.md) 
+Working in progress...
 
 ## AI-QA 🤖
-**in progress..**
-Check out my latest project using Google Gemini AI to assist in creating test cases. This showcases how I integrate advanced AI tools into the QA process.
 
- - [AI-QA Project](https://github.com/bennhub/GitHub-QA-Portfolio/tree/main/AI-QA%20Projects)
- - [AI-QA README](https://github.com/bennhub/GitHub-QA-Portfolio/blob/main/AI-QA%20Projects/README.md) 
-
+Working in progress...
 
 ---
 
-Feel free to explore the repository and review the various sections to get a comprehensive view of my QA engineering skills and practices. If you have any questions or need further information, don’t hesitate to reach out!
+If you have any questions or need further information, don't hesitate to reach out!
 
