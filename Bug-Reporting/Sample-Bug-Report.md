@@ -18,7 +18,7 @@ Key standards I stick to are listed below:
 ## Steps to Reproduce
 *Preconditions*:
 - Log in with the **Procurement Specialist** role (with permissions to create and edit purchase orders)
-- The target vendor (ID: `VEN-2024-0089`) has been marked as `inactive` in the vendor management module (status updated via the admin panel 24 hours earlier)
+- The target vendor (ID: `VEN-2024-0089`) has been marked as `inactive` in the vendor management module
 
 Steps:
 1. Go to the ERP procurement module → **Create New Purchase Order** page.
@@ -45,13 +45,9 @@ Steps:
 
 ---
 
-## Screenshots & Logs
-| Screenshot Description | Link/Attachment |
-|------------------------|-----------------|
-| Purchase order form with the inactive vendor selected | ![Vendor Selection Screenshot](screenshots/po_vendor_inactive.png) |
-| 500 error page after submission | ![500 Error Screenshot](screenshots/po_500_error.png) |
+## Logs
 
-**Backend Error Log Snippet** (extracted from Jenkins CI/CD pipeline logs, timestamp: 2024-10-18 14:22:35):
+**Backend Error Log Snippet**
 
 java.lang.NullPointerException: Cannot invoke "com.chinasoft.erp.model.Vendor.getActiveStatus()" because "vendor" is null
 at com.chinasoft.erp.service.PurchaseOrderService.validateVendorStatus(PurchaseOrderService.java:189)
@@ -61,7 +57,7 @@ at com.chinasoft.erp.controller.PurchaseOrderController.submitOrder(PurchaseOrde
 ---
 
 ## Environment
-- **Operating System**: macOS Sonoma 14.5
+- **Operating System**: Windows 10
 - **Browser/Version**: Mozilla Firefox 121.0 (64-bit) | Google Chrome 120.0.6099.216 (verified on both browsers)
 - **Software Version**: ERP Procurement Module v2.1.4 (deployed through Jenkins on 2024-10-15)
 - **Database**: PostgreSQL 14.8 (production environment)
