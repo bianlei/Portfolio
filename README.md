@@ -48,8 +48,8 @@ As a Java Backend Software Developer at Chinasoft International Ltd, I built sol
 
 In this section, I demonstrate my approach to bug reporting using GitHub’s issue tracking feature. You will find a detailed bug report template as well as examples of filled-out reports.
 
-- [Sample Bug Report](./Bug-Reporting/Sample-Bug-Report.md)
-- [Bug Report Template](./Bug-Reporting/Bug-Report-Template.md)
+- [Sample Bug Report](./main/Bug-Reporting/Sample-Bug-Report.md)
+- [Bug Report Template](./main/Bug-Reporting/Bug-Report-Template.md)
   
 
 ## Version Control 🔁
