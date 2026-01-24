@@ -3,7 +3,6 @@
 Welcome to my GitHub repository, created to showcase my skills and experience as an aspiring QA Engineer. This repo features a comprehensive collection of my work, highlighting my approach to QA, version control, CI/CD, automation, and beyond.
 
 ## Table of Contents
-
 1. [About My QA Background](#about-my-qa-background-) 
 2. [Core QA Skills](#core-qa-skills-%EF%B8%8F)
 3. [Test Automation Projects](#test-automation-projects-)
@@ -25,57 +24,56 @@ My combination of **development expertise + self-led QA learning** lets me bridg
 ## Core QA Skills 🛠️
 I specialize in skills aligned with New Zealand’s tech industry standards:
 
-### Testing Fundamentals
+✅ **Testing Fundamentals**  
 - Software testing models (Agile/Scrum, Waterfall) — applied Agile/Scrum in backend projects at Chinasoft
 - Test types: Unit, Smoke, UAT, End-to-End (E2E) testing
 - Test case design & documentation
 
-### Automation & API Testing
+✅ **Automation & API Testing**  
 - UI Automation: Selenium (Python), Playwright (TypeScript)
 - API Testing: Postman, Rest Assured (Java)
 - Test Frameworks: JUnit, Playwright Test
 
-### Data & Database Skills
+✅ **Data & Database Skills**  
 - SQL (PostgreSQL): Data validation, querying for test verification (SELECT, JOIN, aggregation functions)
 - Data layer testing: Verify UI/API actions sync with database records
 
-### Collaboration & DevOps
+✅ **Collaboration & DevOps**  
 - Version Control: Git (branching, PRs for QA assets)
 - CI/CD: Jenkins, GitHub Actions (WIP)
 - Defect Management: JIRA, structured bug reporting
 
 ## Test Automation Projects 💻
-This section showcases practical automation projects (UI/API/database).
+This section showcases practical automation projects (UI/API/database) — core to modern QA workflows:
 
-### UI/Web Automation
+🔹 **UI/Web Automation**  
 - [Selenium: Login Function Test](./Main/Automation-Project/selenium-login-test/README.md)
 - [Playwright: E2E Shopping Flow Test (UI + PostgreSQL Validation)] (WIP) — *Demonstrates UI actions + PostgreSQL data consistency checks*
 - [Playwright: Login Function Test] (WIP)
 
-### API Automation
+🔹 **API Automation**  
 - [API: User Management Test (Registration + PostgreSQL Verification)] (WIP) — *API testing + database record validation*
 
-### Database Validation (PostgreSQL)
+🔹 **Database Validation (PostgreSQL)**  
 - [PostgreSQL: Data Sync Test (UI/API → Database)] (WIP) — *Verify UI/API actions correctly update PostgreSQL tables (e.g., order/submission records)*
 
 ## Bug Reporting & Defect Management 🪲
-Structured, actionable bug reports that help dev teams resolve issues efficiently.
+Structured, actionable bug reports that help dev teams resolve issues efficiently. I follow industry best practices to include all critical details (steps to reproduce, expected/actual results, environment, screenshots).
 
 - [Sample Bug Report](./Main/Bug-Reporting/Sample-Bug-Report.md)
 - [Bug Report Template](./Main/Bug-Reporting/Bug-Report-Template.md)
 
 ## Version Control for QA 🔁
-Manage QA assets (test scripts, cases) with Git — aligned with Agile team workflows.
+I use Git to manage QA assets (test scripts, test cases, bug report templates) in line with Agile team workflows — ensuring traceability, collaboration, and version history for all testing artifacts.
 
 - [Version Control Documentation (QA Asset Management)](./Main/Version-Control/VC-Documentation.md)
 
 ## CI/CD & Test Infrastructure 📝
-Automate test execution and standardize environments.
+I focus on building scalable, automated test pipelines to maintain QA efficiency in fast-paced Agile teams — standardizing environments and reducing manual effort for test execution.
 
 - [GitHub Actions: Playwright Test Pipeline] (WIP) — *Auto-run Playwright tests + generate reports on code commit*
-- [Docker: Test Environment Containerization] (WIP) — *One-click setup for consistent testing environments*
+- [Docker: Test Environment Containerization] (WIP) — *One-click setup for consistent testing environments (no "it works on my machine" issues)*
 
 ---
 
 If you have any questions or need further information, don't hesitate to reach out!
-
