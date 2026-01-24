@@ -8,6 +8,7 @@ A Python-based UI automation project to test web login functionality, designed t
 - Detailed test report with step-by-step screenshots
 
 ## Project Structure
+```plaintext
 selenium-login-test/
 ├─ login_test.py          # Core automation script
 ├─ README.md              # Project overview & quick start guide
@@ -19,6 +20,7 @@ selenium-login-test/
    ├─ login_scenario_step4_enter_invalid_password.png
    ├─ login_scenario_step5_failed_login_error.png
    └─ login_terminal.png
+```
 
 ## Quick Start
 ### Prerequisites
@@ -37,6 +39,8 @@ cd Main/Automation-Project/selenium-login-test
 # Execute automation script
 python login_test.py
 ```
+
+
 
 # Login Function Automation Test Report
 **Test Date**: 24th January 2026 
@@ -81,19 +85,7 @@ This report documents the full automation test results for web login functionali
 Purpose: Verify the automation script runs without runtime errors and outputs clear test results  
 ![Terminal Execution Output](./screenshots/login_terminal.png)
 
-## 4. Test Execution Steps (Reproducibility)
-To replicate the test results, follow these steps:
-1. Install dependencies:  
-   ```bash
-   pip install selenium webdriver-manager
-
-2. Navigate to the project folder:
-    cd Main/Automation-Project/selenium-login-test
-
-3. Run the automation script:
-    python login_test.py
-
-## 5. Conclusion
+## 4. Conclusion
 All test scenarios passed with no critical issues. Key findings:
 The Selenium script reliably automates end-to-end login workflows
 The target application handles valid/invalid login attempts as expected
