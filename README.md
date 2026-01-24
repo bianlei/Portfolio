@@ -5,12 +5,12 @@ Welcome to my GitHub repository, created to showcase my skills and experience as
 ## Table of Contents
 1. [About My QA Background](#about-my-qa-background-) 
 2. [Core QA Skills](#core-qa-skills-%EF%B8%8F)
-3. [Test Automation Projects ⭐](#test-automation-projects-)
+3. [Test Automation Projects 📁](#test-automation-projects-)
 4. [Bug Reporting & Defect Management](#bug-reporting--defect-management-)
 5. [Version Control for QA](#version-control-for-qa-)
 6. [CI/CD & Test Infrastructure](#cicd--test-infrastructure-)
 
-## About My QA Background 🌟
+## About My QA Background 💻
 As a former Java Backend Developer at Chinasoft International Ltd, I built a solid foundation in software development (Spring Boot APIs, JUnit unit tests, Jenkins CI/CD) — which gave me deep insights into **how to design tests that align with code quality standards**.
 
 This experience sparked my passion for QA, and I’ve since upskilled in core QA tools:
@@ -43,7 +43,7 @@ I specialize in skills aligned with New Zealand’s tech industry standards:
 - CI/CD: Jenkins, GitHub Actions (WIP)
 - Defect Management: JIRA, structured bug reporting
 
-## Test Automation Projects 💻
+## Test Automation Projects 📁
 This section showcases practical automation projects (UI/API/database) — core to modern QA workflows:
 
 🔹 **UI/Web Automation**  
@@ -64,12 +64,12 @@ Structured, actionable bug reports that help dev teams resolve issues efficientl
 - [Bug Report Template](./Main/Bug-Reporting/Bug-Report-Template.md)
 
 ## Version Control for QA 🔁
-I use Git to manage QA assets (test scripts, test cases, bug report templates) in line with Agile team workflows — ensuring traceability, collaboration, and version history for all testing artifacts.
+I use Git to manage QA assets (test scripts, test cases, bug report templates) in line with Agile team workflows, to ensure traceability, collaboration, and version history for all testing artifacts.
 
 - [Version Control Documentation (QA Asset Management)](./Main/Version-Control/VC-Documentation.md)
 
 ## CI/CD & Test Infrastructure 📝
-I focus on building scalable, automated test pipelines to maintain QA efficiency in fast-paced Agile teams — standardizing environments and reducing manual effort for test execution.
+I focus on building scalable, automated test pipelines to maintain QA efficiency in fast-paced Agile teams.
 
 - [GitHub Actions: Playwright Test Pipeline] (WIP) — *Auto-run Playwright tests + generate reports on code commit*
 - [Docker: Test Environment Containerization] (WIP) — *One-click setup for consistent testing environments (no "it works on my machine" issues)*
