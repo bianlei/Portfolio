@@ -63,12 +63,12 @@ This section outlines how I use Git (version control) to manage QA assets (e.g.,
 This section includes practical automation test projects covering UI/web and API scenarios, using industry-standard tools such as Selenium, Playwright and Requests.
 
 ### API Automation
-- [API: User Management Test (Registration/Query)](./Main/Automation-Project/api-user-management-test/README.md)
+- [API: User Management Test (Registration/Query)] (WIP)
 
 ### UI/Web Automation
 - [Selenium: Login Function Test](./Main/Automation-Project/selenium-login-test/README.md)
-- [Playwright: Login Function Test](./Main/Automation-Project/playwright-login-test/README.md)
-- [Selenium: Shopping Cart Flow Test](./Main/Automation-Project/selenium-shopping-cart-test/README.md)
+- [Playwright: Login Function Test] (WIP)
+- [Selenium: Shopping Cart Flow Test] (WIP)
 
 ## CI/CD Implementation 📝
 
