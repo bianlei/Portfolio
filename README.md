@@ -54,7 +54,9 @@ In this section, I demonstrate my approach to bug reporting using GitHub’s iss
 
 ## Version Control 🔁
 
-Working in progress...
+This section outlines how I use Git (version control) to manage QA assets (e.g., test cases, automation scripts) in QA workflows. It includes practical branching strategies, pull request standards, and CI pipeline configurations tailored for QA work.
+
+- [Detailed Version Control Documentation](./Main/Version-Control/VC-Documentation.md)
 
 ## CI/CD Implementation 📝
 
