@@ -7,8 +7,8 @@ Welcome to my GitHub repository, created to showcase my skills and experience as
 1. [My experience](#my-experience-) 
 2. [Bug Reporting](#bug-reporting-)
 3. [Version Control](#version-control-)
-4. [CI/CD Implementation](#cicd-implementation-)
-5. [Automation Coding Project](#automation-coding-project-)
+4. [Automation Coding Project](#automation-coding-project-)
+5. [CI/CD Implementation](#cicd-implementation-)
 6. [Docker](#docker-)
 7. [AI-QA](#AI-QA-)
 
@@ -58,11 +58,11 @@ This section outlines how I use Git (version control) to manage QA assets (e.g.,
 
 - [Detailed Version Control Documentation](./Main/Version-Control/VC-Documentation.md)
 
-## CI/CD Implementation 📝
+## Automation Coding Project 💻
 
 Working in progress...
 
-## Automation Coding Project 💻
+## CI/CD Implementation 📝
 
 Working in progress...
 
