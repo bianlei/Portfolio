@@ -1,26 +1,54 @@
-# Version Control
+# Version Control Documentation
 
-This section showcases my use of GitHub for version control, with a primary focus on building, testing, and deploying automation scripts. Below are some key elements that demonstrate my approach to version control in a QA context:
+This document records my practical specifications and workflows of version control (Git) in QA-related work, focusing on **how to use Git to manage test assets (test cases, automation scripts, etc.) and collaborate with the team**.
 
-## Branching Strategy
-I use GitHub to manage branches primarily for developing and deploying automation scripts. Each branch represents a specific feature, automation update, or enhancement to ensure smooth integration into the QA repository. 
 
-- **Automation branches:** Used for developing and updating automation tests.
-- **Feature branches:** Managed for testing new features or enhancements in the automation pipeline.
-- **Bugfix branches:** Used when resolving issues encountered during automation and unit testing.
+## 1. Branching Strategy
+I use branch management primarily to isolate different QA work scenarios (e.g., test script development, new feature testing), avoiding interference with the main version of test assets.
 
-## Pull Requests and Code Review
-I actively create pull requests (PRs) for the automation scripts I develop. Each PR includes detailed documentation and testing scenarios, ensuring that the automation scripts are thoroughly reviewed before being merged.
+| Branch Type          | Purpose (QA Scenarios)                                                                 | Naming Example                  |
+|----------------------|----------------------------------------------------------------------------------------|---------------------------------|
+| **Main Branch (main)** | Stores the final, validated version of test assets (e.g., formal test cases, stable automation scripts) | `main`                          |
+| **Automation Branches** | Develop/upgrade test automation scripts (e.g., Selenium scripts for login module testing) | `automation/login-test-script`  |
+| **Feature Branches** | Test new product features (e.g., write test cases for the newly added "payment module") | `feature/test-payment-module`   |
+| **Bugfix Branches**  | Fix problems in test assets (e.g., correct errors in existing test cases/bug report templates) | `bugfix/fix-test-case-logic`    |
 
-- **Pull request structure:** Each PR contains automation tests, relevant commits, and links to issues related to automation or unit testing.
-- **Issue tracking:** I use GitHub Issues to track problems found during automation and unit testing, linking them directly to PRs for resolution.
-- **Collaborative feedback:** Reviewers provide feedback on the automation scripts, ensuring the quality and efficiency of the tests before merging.
 
-## Continuous Integration (CI)
-I maintain continuous integration (CI) workflows using GitHub Actions (GHA), which are crucial for building, testing, and deploying automation scripts. The automated pipelines ensure that all new changes are properly tested before being merged.
+## 2. Pull Requests & Code Review (QA Collaboration)
+Pull Requests (PR) are my core way to ensure the quality of test assets before merging. I follow this process for all QA-related modifications:
 
-- **GitHub Actions:** I set up and maintain CI pipelines to automatically build and test automation scripts upon each push or pull request.
-- **Automated checks:** Playwright and other automation tests are run as part of the CI pipelines to validate changes and ensure stability.
+### Pull Request Structure
+Each PR includes:
+- **Modified content**: Clear description (e.g., "Added 5 boundary test cases for the user registration module")
+- **Testing proof**: Screenshots of local test results (e.g., the automation script runs successfully)
+- **Link to issues**: If it’s to fix a problem, link to the corresponding JIRA/GitHub Issue (e.g., "Fixes #3: Error in login script’s password input logic")
 
-## Merging and Conflict Resolution
-Although I don't directly merge branches, I play an integral role in verifying the success of automation tests before a branch is merged. My work in maintaining CI ensures that the main branch remains stable and that the automation scripts are reliable.
+
+## 3. Continuous Integration (CI)
+I use GitHub Actions to build automated CI pipelines, which **automatically verify the validity of test assets** (to avoid invalid test scripts being merged into the main branch).
+
+### My GitHub Actions CI Pipeline
+When I push code to a branch or submit a PR, the pipeline automatically runs:
+1. **Lint check**: Verify that the format of test cases (e.g., Markdown) and automation scripts (e.g., Python) is standardized
+2. **Automation script test**: Run the modified Selenium script to confirm it can execute successfully (e.g., the login test can open the page and input credentials)
+3. **Test case validation**: Check that the newly added test cases have no duplicate/conflicting content
+
+### Example CI Configuration Snippet (For Reference)
+```yaml
+# .github/workflows/qa-ci.yml
+name: QA Asset Validation
+on: [push, pull_request]
+
+jobs:
+  validate-automation-scripts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install selenium webdriver-manager
+      - name: Run automation script test
+        run: python Main/Automation-Project/login_test.py
