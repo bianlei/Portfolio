@@ -5,12 +5,11 @@ Welcome to my GitHub repository, created to showcase my skills and experience as
 ## Table of Contents
 
 1. [About My QA Background](#about-my-qa-background-) 
-2. [Core QA Skills](#core-qa-skills-)
+2. [Core QA Skills](#core-qa-skills-%EF%B8%8F)
 3. [Test Automation Projects](#test-automation-projects-)
 4. [Bug Reporting & Defect Management](#bug-reporting--defect-management-)
 5. [Version Control for QA](#version-control-for-qa-)
 6. [CI/CD & Test Infrastructure](#cicd--test-infrastructure-)
-7. [AI-Assisted QA](#ai-assisted-qa-)
 
 ## About My QA Background 🌟
 As a former Java Backend Developer at Chinasoft International Ltd, I built a solid foundation in software development (Spring Boot APIs, JUnit unit tests, Jenkins CI/CD) — which gave me deep insights into **how to design tests that align with code quality standards**.
