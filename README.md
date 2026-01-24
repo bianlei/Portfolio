@@ -5,7 +5,7 @@ Welcome to my GitHub repository, created to showcase my skills and experience as
 ## Table of Contents
 1. [About My QA Background](#about-my-qa-background-) 
 2. [Core QA Skills](#core-qa-skills-%EF%B8%8F)
-3. [Test Automation Projects](#test-automation-projects-)
+3. [Test Automation Projects ⭐](#test-automation-projects-)
 4. [Bug Reporting & Defect Management](#bug-reporting--defect-management-)
 5. [Version Control for QA](#version-control-for-qa-)
 6. [CI/CD & Test Infrastructure](#cicd--test-infrastructure-)
@@ -76,4 +76,4 @@ I focus on building scalable, automated test pipelines to maintain QA efficiency
 
 ---
 
-If you have any questions or need further information, don't hesitate to reach out!
+If you have any questions or need further information, don't hesitate to reach out! 😊
