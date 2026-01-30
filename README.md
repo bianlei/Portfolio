@@ -30,7 +30,7 @@ I specialize in skills aligned with New Zealand’s tech industry standards:
 - Test case design & documentation
 
 ✅ **Automation & API Testing**  
-- UI Automation: Selenium (Python), Playwright (TypeScript)
+- UI Automation: Selenium (Java, Python), Playwright (TypeScript)
 - API Testing: Postman, Rest Assured (Java)
 - Test Frameworks: JUnit, Playwright Test
 
@@ -39,8 +39,8 @@ I specialize in skills aligned with New Zealand’s tech industry standards:
 - Data layer testing: Verify UI/API actions sync with database records
 
 ✅ **Collaboration & DevOps**  
-- Version Control: Git (branching, PRs for QA assets)
-- CI/CD: Jenkins, GitHub Actions (WIP)
+- Version Control: Git (Branching, PRs for QA assets)
+- CI/CD: Jenkins, GitHub Actions
 - Defect Management: JIRA, structured bug reporting
 
 ## Test Automation Projects 📁
