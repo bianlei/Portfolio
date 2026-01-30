@@ -49,8 +49,7 @@ This section showcases practical automation projects (UI/API/database):
 🔹 **UI/Web Automation**  
 - [Selenium: Login Function Test](./Main/Automation-Project/selenium-login-test/README.md)
 
-- [Selenium + Playwright: Flight Booking Automation Test](./Main/Automation-Project/flight-booking-automation-test/README.md)
-    Covers API (Rest Assured) + UI (Selenium/Playwright) test scenarios for flight booking workflows
+- [Selenium + Playwright: Flight Booking Automation Test](./Main/Automation-Project/flight-booking-automation-test/README.md) - Covers API (Rest Assured) + UI (Selenium/Playwright) test scenarios for flight booking workflows
 
 - [Playwright: E2E Shopping Flow Test (UI + PostgreSQL Validation)] (WIP)
 
@@ -58,11 +57,9 @@ This section showcases practical automation projects (UI/API/database):
 
 🔹 **API Automation**  
 - [API: User Management Test (Registration + PostgreSQL Verification)] (WIP)
-API testing + database record validation
 
 🔹 **Database Validation (PostgreSQL)**  
 - [PostgreSQL: Data Sync Test (UI/API → Database)] (WIP)
-Verify UI/API actions correctly update PostgreSQL tables (e.g., order/submission records)
 
 ## Bug Reporting & Defect Management 🪲
 Structured, actionable bug reports that help dev teams resolve issues efficiently. I follow industry best practices to include all critical details (steps to reproduce, expected/actual results, environment, screenshots).
@@ -78,8 +75,8 @@ I use Git to manage QA assets (test scripts, test cases, bug report templates) i
 ## CI/CD & Test Infrastructure 📝
 I focus on building scalable, automated test pipelines to maintain QA efficiency in fast-paced Agile teams.
 
-- [GitHub Actions: Playwright Test Pipeline] (WIP) — *Auto-run Playwright tests + generate reports on code commit*
-- [Docker: Test Environment Containerization] (WIP) — *One-click setup for consistent testing environments (no "it works on my machine" issues)*
+- [GitHub Actions: Playwright Test Pipeline] (WIP) - Auto-run Playwright tests + generate reports on code commit
+- [Docker: Test Environment Containerization] (WIP) - One-click setup for consistent testing environments (no "it works on my machine" issues)
 
 ---
 
