@@ -94,16 +94,11 @@ This report documents automation results for **flight booking workflows** (API +
 ### 3.1 API Scenario: Get Flight Details (GET)
 - **Request**: `GET https://jsonplaceholder.typicode.com/posts/1`
 - **Validation**: Assert status code 200 + `id`/`title` fields are not null
-- **Terminal Output (Sample)**: ![Successful Login](./screenshots/login_scenario_successful.png)
-![Successful Login](./screenshots/terminal_output.png)
-
+- **Terminal Output (Sample)**:
+![Successful Login](./screenshots/login_scenario_successful.png)
+![Terminal output](./screenshots/terminal_output.png)
 ### 3.2 UI Scenario: Selenium Flight Search
-1. **Step 1**: Navigate to the flight booking platform and log in  
- *(Screenshot: Login page loaded successfully)*
-2. **Step 2**: Enter departure (`London`) and arrival (`New York`) ports  
- *(Screenshot: Input fields populated correctly)*
-3. **Step 3**: Execute flight search and verify result page loads  
- *(Screenshot: Search results displayed)*
+(WIP)
 
 ## 4. Conclusion
 - Core API and Selenium UI scenarios passed without critical issues
