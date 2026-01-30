@@ -11,7 +11,7 @@ Welcome to my GitHub repository, created to showcase my skills and experience as
 6. [CI/CD & Test Infrastructure](#cicd--test-infrastructure-)
 
 ## About My QA Background 💻
-As a former Java Backend Developer at Chinasoft International Ltd, I built a solid foundation in software development (Spring Boot APIs, JUnit unit tests, Jenkins CI/CD) — which gave me deep insights into **how to design tests that align with code quality standards**.
+As a former Java Backend Developer, I built a solid foundation in software development (Spring Boot APIs, JUnit unit tests, Jenkins CI/CD) which gave me deep insights into **how to design tests that align with code quality standards**.
 
 This experience sparked my passion for QA, and I’ve since upskilled in core QA tools:
 - Selenium/Playwright for test automation
@@ -19,18 +19,18 @@ This experience sparked my passion for QA, and I’ve since upskilled in core QA
 - JIRA for defect management
 - SQL (PostgreSQL) for data layer validation
 
-My combination of **development expertise + self-led QA learning** lets me bridge the gap between dev and QA teams — a key strength for modern Agile environments.
+My combination of **development expertise + self-led QA learning** lets me bridge the gap between dev and QA teams.
 
 ## Core QA Skills 🛠️
 I specialize in skills aligned with New Zealand’s tech industry standards:
 
 ✅ **Testing Fundamentals**  
-- Software testing models (Agile/Scrum, Waterfall) — applied Agile/Scrum in backend projects at Chinasoft
+- Software testing models (Agile/Scrum, Waterfall) applied Agile/Scrum in backend projects at Chinasoft
 - Test types: Unit, Smoke, UAT, End-to-End (E2E) testing
 - Test case design & documentation
 
 ✅ **Automation & API Testing**  
-- UI Automation: Selenium (Python), Playwright (TypeScript)
+- UI Automation: Selenium (Java, Python), Playwright (TypeScript)
 - API Testing: Postman, Rest Assured (Java)
 - Test Frameworks: JUnit, Playwright Test
 
@@ -39,12 +39,12 @@ I specialize in skills aligned with New Zealand’s tech industry standards:
 - Data layer testing: Verify UI/API actions sync with database records
 
 ✅ **Collaboration & DevOps**  
-- Version Control: Git (branching, PRs for QA assets)
-- CI/CD: Jenkins, GitHub Actions (WIP)
+- Version Control: Git (Branching, PRs for QA assets)
+- CI/CD: Jenkins, GitHub Actions
 - Defect Management: JIRA, structured bug reporting
 
 ## Test Automation Projects 📁
-This section showcases practical automation projects (UI/API/database) — core to modern QA workflows:
+This section showcases practical automation projects (UI/API/database):
 
 🔹 **UI/Web Automation**  
 - [Selenium: Login Function Test](./Main/Automation-Project/selenium-login-test/README.md)
