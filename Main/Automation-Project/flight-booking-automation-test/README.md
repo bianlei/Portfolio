@@ -32,6 +32,7 @@ flight-booking-automation-test/
 ├─ README.md                 # Project overview & quick start guide
 └─ target/                   # Compiled code + test reports
    └─ surefire-reports/      # Test execution logs & results
+```
 
 ## Quick Start
 ### Prerequisites
