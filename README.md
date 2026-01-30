@@ -11,7 +11,7 @@ Welcome to my GitHub repository, created to showcase my skills and experience as
 6. [CI/CD & Test Infrastructure](#cicd--test-infrastructure-)
 
 ## About My QA Background 💻
-As a former Java Backend Developer at Chinasoft International Ltd, I built a solid foundation in software development (Spring Boot APIs, JUnit unit tests, Jenkins CI/CD) which gave me deep insights into **how to design tests that align with code quality standards**.
+As a former Java Backend Developer, I built a solid foundation in software development (Spring Boot APIs, JUnit unit tests, Jenkins CI/CD) which gave me deep insights into **how to design tests that align with code quality standards**.
 
 This experience sparked my passion for QA, and I’ve since upskilled in core QA tools:
 - Selenium/Playwright for test automation
@@ -19,7 +19,7 @@ This experience sparked my passion for QA, and I’ve since upskilled in core QA
 - JIRA for defect management
 - SQL (PostgreSQL) for data layer validation
 
-My combination of **development expertise + self-led QA learning** lets me bridge the gap between dev and QA teams — a key strength for modern Agile environments.
+My combination of **development expertise + self-led QA learning** lets me bridge the gap between dev and QA teams.
 
 ## Core QA Skills 🛠️
 I specialize in skills aligned with New Zealand’s tech industry standards:
