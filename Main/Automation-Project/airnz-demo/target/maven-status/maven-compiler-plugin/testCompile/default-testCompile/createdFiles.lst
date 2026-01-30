@@ -1,0 +1,5 @@
+com\airnz\qa\ui\SeleniumFlightTests.class
+com\airnz\qa\api\FlightApiTests.class
+com\airnz\qa\junit\FlightJUnitTests.class
+com\airnz\qa\testng\FlightTestNGTests.class
+com\airnz\qa\ui\PlaywrightFlightTests.class

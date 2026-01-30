@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.airnz.qa.junit.FlightJUnitTests
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 35.40 s -- in com.airnz.qa.junit.FlightJUnitTests
