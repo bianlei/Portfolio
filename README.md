@@ -48,15 +48,21 @@ This section showcases practical automation projects (UI/API/database):
 
 🔹 **UI/Web Automation**  
 - [Selenium: Login Function Test](./Main/Automation-Project/selenium-login-test/README.md)
-- [Selenium + Playwright: Flight Booking Automation Test](./Main/Automation-Project/flight-booking-automation-test/README.md) — *Covers API (Rest Assured) + UI (Selenium/Playwright) test scenarios for flight booking workflows*
-- [Playwright: E2E Shopping Flow Test (UI + PostgreSQL Validation)] (WIP) — *Demonstrates UI actions + PostgreSQL data consistency checks*
+
+- [Selenium + Playwright: Flight Booking Automation Test](./Main/Automation-Project/flight-booking-automation-test/README.md)
+    Covers API (Rest Assured) + UI (Selenium/Playwright) test scenarios for flight booking workflows
+
+- [Playwright: E2E Shopping Flow Test (UI + PostgreSQL Validation)] (WIP)
+
 - [Playwright: Login Function Test] (WIP)
 
 🔹 **API Automation**  
-- [API: User Management Test (Registration + PostgreSQL Verification)] (WIP) — *API testing + database record validation*
+- [API: User Management Test (Registration + PostgreSQL Verification)] (WIP)
+API testing + database record validation
 
 🔹 **Database Validation (PostgreSQL)**  
-- [PostgreSQL: Data Sync Test (UI/API → Database)] (WIP) — *Verify UI/API actions correctly update PostgreSQL tables (e.g., order/submission records)*
+- [PostgreSQL: Data Sync Test (UI/API → Database)] (WIP)
+Verify UI/API actions correctly update PostgreSQL tables (e.g., order/submission records)
 
 ## Bug Reporting & Defect Management 🪲
 Structured, actionable bug reports that help dev teams resolve issues efficiently. I follow industry best practices to include all critical details (steps to reproduce, expected/actual results, environment, screenshots).
