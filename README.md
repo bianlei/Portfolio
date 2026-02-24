@@ -1,4 +1,4 @@
-# Lei's QA Portfolio 😊
+# Lei's QA Portfolio 😊 (I've paused my progress to prepare for the ISTQB)
 
 Welcome to my GitHub repository, created to showcase my skills and experience as an aspiring QA Engineer. This repo features a comprehensive collection of my work, highlighting my approach to QA, version control, CI/CD, automation, and beyond.
 
